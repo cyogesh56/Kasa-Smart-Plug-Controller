@@ -1,0 +1,9 @@
+{
+    "ip_address": "10.0.0.67",
+    "plug_number": 0,
+    "battery_threshold": 20,
+    "apps": [
+        "HITMAN3.exe"
+    ],
+    "check_interval": 10
+}
