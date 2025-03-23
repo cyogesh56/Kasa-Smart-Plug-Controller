@@ -77,7 +77,7 @@ pip install pyinstaller
 pyinstaller --onefile --noconsole --name "Smart Plug Controller" --icon "icon.ico" --add-data "autostart_helper.py;." --add-data "config.json;." --add-data "icon.png;." smart_plug_gui.py
 ```
 
-3. Once complete, locate the executable in the `dist` folder.
+4. Once complete, locate the executable in the `dist` folder.
 
 ### Configuration
 
