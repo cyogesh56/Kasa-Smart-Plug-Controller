@@ -1,6 +1,7 @@
 # Smart Plug Controller GUI App
 
 > **Note:** This application and its source code were generated using AI assistance. Always review and test thoroughly before deploying or using in critical applications.
+
 > **Also:** I have bare-minimum knowledge of Python and have created this as a hobby project. If you have knowledge of Python, I welcome you to improve the UX and functionalities.
 
 ## Overview
