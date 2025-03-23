@@ -34,7 +34,7 @@ pip install python-kasa psutil pyinstaller
 
 ### Instructions & Usage
 
-- For fast and easy usage, download the "Smart Plug Controller.exe" from the releases and configure it accordingly (see Configuration section).
+- For fast and easy usage, download the "Smart Plug Controller.exe" from the releases and configure it accordingly (see Configuration section). [Download from Releases](https://github.com/cyogesh56/Kasa-Smart-Plug-Controller/releases/)
 - If you would like to build it by yourself see the information below:
 
 ### Building and Running the Application
