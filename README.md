@@ -94,6 +94,7 @@ When launching for the first time:
 - **Start Monitoring**: Begins automatic checking based on your configuration.
 - **Stop Monitoring**: Stops the automatic checks, returning manual control.
 - **Toggle Switch**: Manually turn your smart plug on or off.
+- **Start/Stop on boot:** Adds the app to your startup applications, so whenever the system boots, the app will open and start monitoring.
 
 ---
 
