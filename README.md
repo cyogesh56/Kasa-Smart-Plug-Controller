@@ -1,4 +1,4 @@
-# Smart Plug Controller GUI App
+🤖 # Smart Plug Controller GUI App
 
 > **Note:** This application and its source code were generated using AI assistance. Always review and test thoroughly before deploying or using in critical applications.
 
